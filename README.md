@@ -3,5 +3,7 @@
 
 Курс по объектно-ориентированному Питону (продвинутый уровень Питона), магистры программ "Компьютерная лингвистика" и "Цифровые методы гуманитарных исследований", 2023-24 учебный год.
 
-[Лекция 1](https://github.com/klyshinsky/Object_Oriented_Python_2023_24/blob/main/lecture_20230905.ipynb) - Библиотеки морфологического анализа, пару слов про объекты.
+[Записи лекций находятся здесь](https://disk.yandex.ru/d/kQ8-_CGnDTgktQ).
 
+[Лекция 1](https://github.com/klyshinsky/Object_Oriented_Python_2023_24/blob/main/lecture_20230905.ipynb) - Библиотеки морфологического анализа, пару слов про объекты.  
+[Дополнительные материалы](https://github.com/klyshinsky/Object_Oriented_Python_2023_24/blob/main/prereq_20230905_regexp.ipynb) - Регулярные выражения.
