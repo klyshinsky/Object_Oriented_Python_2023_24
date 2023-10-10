@@ -13,3 +13,5 @@
 [Лекция 3 и 4](https://github.com/klyshinsky/Object_Oriented_Python_2023_24/blob/main/lecture_20230919_operators_decorators.ipynb) - Как устроены объекты и классы в Питон. __dict__ . Класс как объект типа type. Как обманываит Питон. Функция как объект соответствующего типа. Переопределение операторов в Питоне. Передача значений по умолчанию в функцию. Упаковка и распаковка параметров при передаче в функцию. Декораторы и их применение. 
 
 [Лекция 5](https://github.com/klyshinsky/Object_Oriented_Python_2023_24/blob/main/Lecture_20231003_requests.ipynb) - Библиотека requests для работы с HTTP. Библиотека BeautifulSoup для работы с HTML. XPath для запросов к "деревянной" структуре документа. Загрузка и обработка бинарных данных.
+
+[Лекция 6](https://github.com/klyshinsky/Object_Oriented_Python_2023_24/blob/main/lecture_20231010_Inheritance.ipynb) - @dataclass и namedtuple. Исключительные ситуации. Наследование. Абстрактные методы и классы. Статические методы, методы класса.
