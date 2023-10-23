@@ -14,4 +14,6 @@
 
 [Лекция 5](https://github.com/klyshinsky/Object_Oriented_Python_2023_24/blob/main/Lecture_20231003_requests.ipynb) - Библиотека requests для работы с HTTP. Библиотека BeautifulSoup для работы с HTML. XPath для запросов к "деревянной" структуре документа. Загрузка и обработка бинарных данных.
 
-[Лекция 6](https://github.com/klyshinsky/Object_Oriented_Python_2023_24/blob/main/lecture_20231010_Inheritance.ipynb) - @dataclass и namedtuple. Исключительные ситуации. Наследование. Абстрактные методы и классы. Статические методы, методы класса.
+[Лекция 6, 7](https://github.com/klyshinsky/Object_Oriented_Python_2023_24/blob/main/lecture_20231010_Inheritance.ipynb) - @dataclass и namedtuple. Исключительные ситуации. Наследование. Абстрактные методы и классы. Статические методы, методы класса.
+
+[Лекция 8](https://github.com/klyshinsky/Object_Oriented_Python_2023_24/blob/main/lecture_20231024_unittest.ipynb) - Приятные мелочи, которые должен знать программист: файл настроек, ведение журнала, юнит-тесты.
