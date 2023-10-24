@@ -17,3 +17,6 @@
 [Лекция 6, 7](https://github.com/klyshinsky/Object_Oriented_Python_2023_24/blob/main/lecture_20231010_Inheritance.ipynb) - @dataclass и namedtuple. Исключительные ситуации. Наследование. Абстрактные методы и классы. Статические методы, методы класса.
 
 [Лекция 8](https://github.com/klyshinsky/Object_Oriented_Python_2023_24/blob/main/lecture_20231024_unittest.ipynb) - Приятные мелочи, которые должен знать программист: файл настроек, ведение журнала, юнит-тесты.
+
+Лекция 9 читается с демонстрацией экрана!
+
