@@ -23,3 +23,5 @@
 [Лекция 10](https://github.com/klyshinsky/Object_Oriented_Python_2023_24/blob/main/lecture_20231106_software_design.pdf] - Принципы разработки программного обеспечения (презентация).
 
 [Лекция 11](https://github.com/klyshinsky/Object_Oriented_Python_2023_24/blob/main/lecture_20231127_design_patterns.ipynb] - Шаблоны разработки классов.
+
+[Лекция 12](https://github.com/klyshinsky/Object_Oriented_Python_2023_24/blob/main/lecture_20231202_software_architecture.pdf] - Архитектура программного обеспечения.
