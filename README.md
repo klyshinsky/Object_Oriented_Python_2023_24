@@ -20,13 +20,13 @@
 
 Лекция 9 читается с демонстрацией экрана!
 
-[Лекция 10](https://github.com/klyshinsky/Object_Oriented_Python_2023_24/blob/main/lecture_20231106_software_design.pdf] - Принципы разработки программного обеспечения (презентация).
+[Лекция 10](https://github.com/klyshinsky/Object_Oriented_Python_2023_24/blob/main/lecture_20231106_software_design.pdf) - Принципы разработки программного обеспечения (презентация).
 
-[Лекция 11](https://github.com/klyshinsky/Object_Oriented_Python_2023_24/blob/main/lecture_20231127_design_patterns.ipynb] - Шаблоны разработки классов.
+[Лекция 11](https://github.com/klyshinsky/Object_Oriented_Python_2023_24/blob/main/lecture_20231127_design_patterns.ipynb) - Шаблоны разработки классов.
 
-[Лекция 12](https://github.com/klyshinsky/Object_Oriented_Python_2023_24/blob/main/lecture_20231202_software_architecture.pdf] - Архитектура программного обеспечения.
+[Лекция 12](https://github.com/klyshinsky/Object_Oriented_Python_2023_24/blob/main/lecture_20231202_software_architecture.pdf) - Архитектура программного обеспечения.
 
-[Лекция 13](https://github.com/klyshinsky/Object_Oriented_Python_2023_24/blob/main/lecture_20231204_multiprocessing.ipynb] - Многопоточность.
+[Лекция 13](https://github.com/klyshinsky/Object_Oriented_Python_2023_24/blob/main/lecture_20231204_multiprocessing.ipynb) - Многопоточность.
 
 [Лекция 14](https://github.com/klyshinsky/Object_Oriented_Python_2023_24/blob/main/lecture_20231211_OpenCV.ipynb) - Работа с OpenCV.
 
