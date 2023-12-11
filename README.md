@@ -27,3 +27,7 @@
 [Лекция 12](https://github.com/klyshinsky/Object_Oriented_Python_2023_24/blob/main/lecture_20231202_software_architecture.pdf] - Архитектура программного обеспечения.
 
 [Лекция 13](https://github.com/klyshinsky/Object_Oriented_Python_2023_24/blob/main/lecture_20231204_multiprocessing.ipynb] - Многопоточность.
+
+[Лекция 14](https://github.com/klyshinsky/Object_Oriented_Python_2023_24/blob/main/lecture_20231211_OpenCV.ipynb) - Работа с OpenCV.
+
+[Лекция 14](https://github.com/klyshinsky/Object_Oriented_Python_2023_24/blob/main/lecture_20231211_Reduce_Space.ipynb) - Сокращение размерности пространства признаков.
