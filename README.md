@@ -31,3 +31,8 @@
 [Лекция 14](https://github.com/klyshinsky/Object_Oriented_Python_2023_24/blob/main/lecture_20231211_OpenCV.ipynb) - Работа с OpenCV.
 
 [Лекция 14](https://github.com/klyshinsky/Object_Oriented_Python_2023_24/blob/main/lecture_20231211_Reduce_Space.ipynb) - Сокращение размерности пространства признаков.
+
+[Лекция 15, часть 1](https://github.com/klyshinsky/Object_Oriented_Python_2023_24/blob/main/lecture_20231218_1_Graph_and_Tree_Basics.ipynb] - Хранение графов, работа с деревьями.  
+[Лекция 15, часть 2](https://github.com/klyshinsky/Object_Oriented_Python_2023_24/blob/main/lecture_20231218_2_Data_Structures.ipynb] - Двоичные деревья, их балансировка. Префиксные деревья.  
+[Лекция 15, часть 3](https://github.com/klyshinsky/Object_Oriented_Python_2023_24/blob/main/lecture_20231218_3_Search_in_Graph.ipynb] - Поиск путей в графе.  
+
